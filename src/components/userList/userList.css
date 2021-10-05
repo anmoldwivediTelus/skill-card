@@ -4,6 +4,9 @@ button.addBtn.btn.btn-secondary {
     margin-right: 20px;
     margin-top: 20px;
   }
+  a.cmnBtn {
+    margin-right: 20px;
+}
   button.cmnBtn.btn.btn-secondary {
     margin-right: 10px;
   }
